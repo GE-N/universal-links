@@ -7,5 +7,8 @@
 				"paths": [ "*"]
 			}
 		]
-	}
+	},
+	"appclips": {
+        "apps": [ "NSUC2EV6V8.com.jerapong.sevenpoc.Clip" ]
+    }
 }
