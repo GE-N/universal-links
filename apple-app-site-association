@@ -1,14 +1,5 @@
 {
-	"applinks": {
-		"apps": [],
-		"details": [
-			{
-				"appID": "KFCNEC27GU.com.razeware.UniveralLinksTutorial",
-				"paths": [ "*" ]
-			}
-		]
-	},
 	"appclips": {
-        	"apps": [ "NSUC2EV6V8.com.jerapongnam.onepiecetcdb.Clip" ]
-    	}
+        "apps": ["NSUC2EV6V8.com.jerapongnam.onepiecetcdb.Clip"]
+    }
 }
